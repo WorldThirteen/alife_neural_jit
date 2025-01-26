@@ -1,0 +1,18 @@
+{
+  "name": "alife_neural_jit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project ./tsconfig.node.json",
+    "test": "node ./node-dist/src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "neataptic": "^1.4.7"
+  }
+}

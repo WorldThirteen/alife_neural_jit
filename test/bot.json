@@ -1,0 +1,717 @@
+{
+  "id": "0.4242958566173911",
+  "genotype": [
+    {
+      "type": 0,
+      "id": 3,
+      "kind": 1,
+      "value": 1,
+      "innovationNumber": 3
+    },
+    {
+      "type": 0,
+      "id": 4,
+      "kind": 2,
+      "value": 0,
+      "innovationNumber": 4
+    },
+    {
+      "type": 0,
+      "id": 9,
+      "kind": 6,
+      "value": 0.479581248247996,
+      "innovationNumber": 9
+    },
+    {
+      "innovationNumber": 58,
+      "id": 58,
+      "type": 0,
+      "kind": 3,
+      "value": 0.40792841324582696
+    },
+    {
+      "type": 2,
+      "innovationNumber": 59,
+      "from": 58,
+      "to": 4,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 1125,
+      "innovationNumber": 1125,
+      "activation": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 1163,
+      "from": 9,
+      "to": 3,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 1480,
+      "id": 1480,
+      "type": 0,
+      "kind": 2,
+      "value": 0.860710415057838
+    },
+    {
+      "type": 2,
+      "innovationNumber": 1481,
+      "from": 1125,
+      "to": 1480,
+      "value": 0.21853352105244994,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 2897,
+      "id": 2897,
+      "type": 0,
+      "kind": 1,
+      "value": 0.2146971730981022
+    },
+    {
+      "innovationNumber": 3326,
+      "id": 3326,
+      "type": 0,
+      "kind": 2,
+      "value": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 3327,
+      "from": 58,
+      "to": 3326,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 4392,
+      "from": 9,
+      "to": 2897,
+      "value": -1,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 5105,
+      "id": 5105,
+      "type": 0,
+      "kind": 4,
+      "value": 0.38860851456411183
+    },
+    {
+      "type": 1,
+      "id": 6369,
+      "innovationNumber": 6369,
+      "activation": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 6370,
+      "from": 9,
+      "to": 6369,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 6371,
+      "from": 6369,
+      "to": 2897,
+      "value": -1,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 7346,
+      "id": 7346,
+      "type": 0,
+      "kind": 4,
+      "value": 0.07934728288091719
+    },
+    {
+      "type": 1,
+      "id": 8281,
+      "innovationNumber": 8281,
+      "activation": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 8282,
+      "from": 9,
+      "to": 8281,
+      "value": 0.1583822243846953,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 10020,
+      "innovationNumber": 10020,
+      "activation": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 11162,
+      "from": 5105,
+      "to": 1125,
+      "value": 0.549030176596716,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 13471,
+      "innovationNumber": 13471,
+      "activation": 2
+    },
+    {
+      "type": 2,
+      "innovationNumber": 13472,
+      "from": 1125,
+      "to": 13471,
+      "value": 0.5675178882665932,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 13473,
+      "from": 13471,
+      "to": 1480,
+      "value": 0.11701439879834652,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 16084,
+      "id": 16084,
+      "type": 0,
+      "kind": 1,
+      "value": 0.44918241747654974
+    },
+    {
+      "type": 2,
+      "innovationNumber": 16085,
+      "from": 8281,
+      "to": 16084,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 23037,
+      "id": 23037,
+      "type": 0,
+      "kind": 1,
+      "value": 0.12731293961405754
+    },
+    {
+      "type": 2,
+      "innovationNumber": 23038,
+      "from": 1125,
+      "to": 23037,
+      "value": 0.8992318892851472,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 25855,
+      "from": 13471,
+      "to": 2897,
+      "value": -1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 27857,
+      "from": 1125,
+      "to": 2897,
+      "value": -1,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 29560,
+      "innovationNumber": 29560,
+      "activation": 3
+    },
+    {
+      "innovationNumber": 30797,
+      "id": 30797,
+      "type": 0,
+      "kind": 8,
+      "value": 0.45026425225660205
+    },
+    {
+      "type": 2,
+      "innovationNumber": 30798,
+      "from": 30797,
+      "to": 3326,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 40160,
+      "innovationNumber": 40160,
+      "activation": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 40162,
+      "from": 40160,
+      "to": 3,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 41385,
+      "from": 40160,
+      "to": 10020,
+      "value": 0.29991461616009474,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 41721,
+      "from": 29560,
+      "to": 3,
+      "value": 0.2865618276409805,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 47111,
+      "id": 47111,
+      "type": 0,
+      "kind": 2,
+      "value": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 48026,
+      "from": 5105,
+      "to": 1480,
+      "value": 0.6507900052238256,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 49958,
+      "from": 9,
+      "to": 29560,
+      "value": -0.3138195083010942,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 53948,
+      "innovationNumber": 53948,
+      "activation": 2
+    },
+    {
+      "type": 2,
+      "innovationNumber": 53950,
+      "from": 53948,
+      "to": 16084,
+      "value": -0.8480187256354839,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 59770,
+      "from": 40160,
+      "to": 16084,
+      "value": 0.19881943170912564,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 61068,
+      "from": 6369,
+      "to": 1125,
+      "value": 0.29158074012957513,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 62884,
+      "from": 58,
+      "to": 6369,
+      "value": -0.21874991292133927,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 65422,
+      "from": 58,
+      "to": 47111,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 66416,
+      "from": 8281,
+      "to": 1125,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 67829,
+      "from": 40160,
+      "to": 29560,
+      "value": 0.3592288123909384,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 70620,
+      "from": 7346,
+      "to": 6369,
+      "value": -0.03668014262802899,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 74361,
+      "from": 7346,
+      "to": 3326,
+      "value": -0.8475299931596965,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 83729,
+      "from": 30797,
+      "to": 4,
+      "value": 0.003910433035343885,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 83820,
+      "from": 30797,
+      "to": 47111,
+      "value": 0.21819238737225533,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 91186,
+      "innovationNumber": 91186,
+      "activation": 3
+    },
+    {
+      "type": 2,
+      "innovationNumber": 91187,
+      "from": 13471,
+      "to": 91186,
+      "value": -0.010667328955605626,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 91188,
+      "from": 91186,
+      "to": 16084,
+      "value": 0.1724773789756,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 92649,
+      "id": 92649,
+      "type": 0,
+      "kind": 2,
+      "value": 0.6983977488707751
+    },
+    {
+      "type": 2,
+      "innovationNumber": 93764,
+      "from": 10020,
+      "to": 91186,
+      "value": -0.7929068340454251,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 93999,
+      "from": 1125,
+      "to": 1125,
+      "value": 0.3528324435465038,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 94113,
+      "innovationNumber": 94113,
+      "activation": 1
+    },
+    {
+      "type": 2,
+      "innovationNumber": 94115,
+      "from": 94113,
+      "to": 1125,
+      "value": 0.018787449225783348,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 95350,
+      "id": 95350,
+      "type": 0,
+      "kind": 1,
+      "value": 0.10389114264398813
+    },
+    {
+      "type": 2,
+      "innovationNumber": 95351,
+      "from": 30797,
+      "to": 95350,
+      "value": 0.6335218059830368,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 95795,
+      "id": 95795,
+      "type": 0,
+      "kind": 7,
+      "value": 0.11822126060724258
+    },
+    {
+      "type": 2,
+      "innovationNumber": 95796,
+      "from": 95795,
+      "to": 3,
+      "value": -0.326175753492862,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 101415,
+      "id": 101415,
+      "type": 0,
+      "kind": 3,
+      "value": 0.4100745962932706
+    },
+    {
+      "type": 2,
+      "innovationNumber": 101416,
+      "from": 101415,
+      "to": 4,
+      "value": 1,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 103547,
+      "from": 7346,
+      "to": 3,
+      "value": 0.27379283984191716,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 105222,
+      "innovationNumber": 105222,
+      "activation": 3
+    },
+    {
+      "type": 2,
+      "innovationNumber": 105223,
+      "from": 30797,
+      "to": 105222,
+      "value": 0.4895494217053056,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 105224,
+      "from": 105222,
+      "to": 1480,
+      "value": -0.23195464606396854,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 106253,
+      "from": 30797,
+      "to": 23037,
+      "value": -0.5907613907475024,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 106408,
+      "id": 106408,
+      "type": 0,
+      "kind": 3,
+      "value": 0.7368167431559414
+    },
+    {
+      "type": 2,
+      "innovationNumber": 106409,
+      "from": 106408,
+      "to": 29560,
+      "value": 0.034787575248628855,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 106593,
+      "from": 13471,
+      "to": 92649,
+      "value": -0.6334985257126391,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 106955,
+      "from": 7346,
+      "to": 94113,
+      "value": -0.42831480386666954,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 107019,
+      "from": 9,
+      "to": 53948,
+      "value": -0.35722796292975545,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 107787,
+      "from": 13471,
+      "to": 95350,
+      "value": -0.3389441119506955,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 108133,
+      "innovationNumber": 108133,
+      "activation": 1
+    },
+    {
+      "type": 2,
+      "innovationNumber": 108134,
+      "from": 58,
+      "to": 108133,
+      "value": 0.35890906979329884,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 108135,
+      "from": 108133,
+      "to": 105222,
+      "value": -0.18686691857874393,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 108828,
+      "from": 29560,
+      "to": 2897,
+      "value": 0.2722445074468851,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 109656,
+      "innovationNumber": 109656,
+      "activation": 2
+    },
+    {
+      "type": 2,
+      "innovationNumber": 109657,
+      "from": 9,
+      "to": 109656,
+      "value": -0.12622428871691227,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 109658,
+      "from": 109656,
+      "to": 95350,
+      "value": -0.17913696262985468,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 110003,
+      "id": 110003,
+      "type": 0,
+      "kind": 3,
+      "value": 0.03480531112290919
+    },
+    {
+      "type": 2,
+      "innovationNumber": 110004,
+      "from": 110003,
+      "to": 53948,
+      "value": 0.6244710325263441,
+      "disabled": false
+    },
+    {
+      "type": 1,
+      "id": 110175,
+      "innovationNumber": 110175,
+      "activation": 0
+    },
+    {
+      "type": 2,
+      "innovationNumber": 110176,
+      "from": 105222,
+      "to": 110175,
+      "value": 0.7692688356619328,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 110177,
+      "from": 110175,
+      "to": 53948,
+      "value": 0.12438268633559346,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 111608,
+      "from": 94113,
+      "to": 6369,
+      "value": -0.2973086158744991,
+      "disabled": false
+    },
+    {
+      "innovationNumber": 112658,
+      "id": 112658,
+      "type": 0,
+      "kind": 1,
+      "value": 0.19871374708600342
+    },
+    {
+      "type": 2,
+      "innovationNumber": 112659,
+      "from": 105222,
+      "to": 112658,
+      "value": -0.029767750296741724,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 117399,
+      "from": 101415,
+      "to": 1125,
+      "value": 0.2753638136200607,
+      "disabled": false
+    },
+    {
+      "type": 2,
+      "innovationNumber": 117985,
+      "from": 53948,
+      "to": 8281,
+      "value": 0.34755699802190065,
+      "disabled": false
+    }
+  ]
+}
